@@ -19,3 +19,4 @@ def remove_strawberry(contacts)
    name.each do |ice_cream|
      ice_cream[0].remove
 end
+end
