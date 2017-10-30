@@ -15,5 +15,7 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-
+ contacts.each do |name, data|
+   name.each do |ice_cream|
+     ice_cream[0].remove
 end
