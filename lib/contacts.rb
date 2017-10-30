@@ -20,3 +20,4 @@ def remove_strawberry(contacts)
      ice_cream[0].remove
 end
 end
+end
